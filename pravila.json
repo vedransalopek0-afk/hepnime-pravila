@@ -1,0 +1,22 @@
+{
+  "verzija": 1,
+  "opis": "Pravila prema Kolektivnom ugovoru HEP-a. Povećanje vrijednosti boda 6 % od 1.1.2027.",
+  "vrijednostBoda": 1.68988,
+  "povecanja": [
+    { "od": "2027-01-01", "posto": 6 }
+  ],
+  "dodaci": { "subota": 35, "nedjelja": 50, "blagdanRad": 50, "nocni": 50, "drugaSmjena": 20, "prekovremeni": 50 },
+  "naknade": { "godisnji": 130, "blagdanDopust": 120, "bolovanje": 85 },
+  "staz": { "minuliPoGodini": 0.5, "stazHepPoGodini": 0.2 },
+  "prehrana": { "bodovaPoSatu": 0.92, "pausal": 100 },
+  "prijevoz": { "cijenaKm": 0.19, "maxMjesecno": 320, "neoporezivo": 151.30 },
+  "jednokratne": {
+    "regres": 700, "regresUzPlacuZaMjesec": 5,
+    "danHep": 700, "danHepUzPlacuZaMjesec": 8,
+    "bozicnica": 500, "bozicnicaUzPlacuZaMjesec": 11,
+    "darZaDijete": 140, "darUzPlacuZaMjesec": 11,
+    "uskrsnica": 133
+  },
+  "porez": { "mio1": 15, "mio2": 5, "osobniOdbitak": 600, "granicaViseStope": 5000 },
+  "isplataRadniDan": 8
+}
